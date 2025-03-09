@@ -1,0 +1,3 @@
+conda activate csv_ai
+
+streamlit run app.py
